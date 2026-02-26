@@ -1,4 +1,4 @@
-#Mano's Basic Computer Simulator
+# Mano's Basic Computer Simulator
 
 This program contains a Python implementation of a Mano-style “Basic Computer” simulator.
 It reads a program and initial data from text files, loads them into a simulated memory, and lets you step through execution at cycle or instruction level while printing the micro-operations and updated components.
@@ -202,3 +202,4 @@ I flag = 0b0
 S flag = 0b0
 
 Sequence Counter = 0
+
